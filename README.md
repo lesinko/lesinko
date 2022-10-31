@@ -1,14 +1,10 @@
-### Hi there 👋
-I learn and practice continously, am an architect to aws cloud solutions. 
+### Hi there 👋, I'm Titus.
 
-Here are some ideas to get you started:
+### AWS Solutions Architect| Learning DevOps
 
-- 🔭 I’m currently working on making customers happy through cloud solutions
-- 🌱 I'm currently learning DevOps
+- 🔭 currently working on making customers happy through cloud solutions
 - 👯 I’m looking to collaborate on DevOps projects
-- 🤔 I’m looking for help with Automation tools
 - 💬 Ask me about AWS
-- 📫 How to reach me: https://twitter.com/_lesinko
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: fear of new technology is called technophobia.
 -->
