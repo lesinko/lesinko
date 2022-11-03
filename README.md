@@ -1,10 +1,12 @@
-### Hi there 👋, I'm Titus.
+### Hello 👋,
 
-### AWS Solutions Architect| Learning DevOps
+-Who?Am Titus,a cloud solutions architect(aws) and currently learning DevOps.
+-Why?Trying to make customers happy through cloud solutions.
 
-- 🔭 currently working on making customers happy through cloud solutions
-- 👯 I’m looking to collaborate on DevOps projects
-- 💬 Ask me about AWS
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: fear of new technology is called technophobia.
--->
+###Tools
+-Docker & Kubernetes
+-Ansible
+-Git
+-Aws cloud
+-linux
+-python
