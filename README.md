@@ -1,6 +1,6 @@
 ### Hello 👋,
 
-Am Titus,a cloud solutions architect(aws) and currently learning DevOps.
+Am Titus,I design, develop and deploy sustainable cloud solutions to business processes.
 Trying to make customers happy through cloud solutions.
 
 ### Tools
