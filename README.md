@@ -1,12 +1,11 @@
 ### Hello 👋,
 
-Am Titus,I design, develop and deploy sustainable cloud solutions to business processes.
-Trying to make customers happy through cloud solutions.
+Am Titus, a cloud solutions architect, I design and implement cloud solutions. currently learning DevOps.
 
 ### Tools
 -Docker & Kubernetes
 -Ansible
 -Git
--Aws cloud
+-Aws
 -linux
--python
+-IaC- CloudFormation
