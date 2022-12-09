@@ -20,6 +20,10 @@
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -37,7 +41,7 @@
 </details>
 
 <details>
-    <summary><b>🔗Reach out</b></summary><br/>
+    <summary><b>🔗connect</b></summary><br/>
     <a href="https://www.linkedin.com/in/titus-lesinko">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
