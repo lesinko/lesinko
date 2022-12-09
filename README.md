@@ -1,11 +1,5 @@
-### Hello 👋,
+### Hello! I'm Titus,
+A cloud solutions architect leveraging AWS cloud technologies. Learning DevOps
 
-Am Titus, a cloud solutions architect, I design and implement cloud solutions. currently learning DevOps.
+<img src="https://github-readme-stats.vercel.app/api?username=lesinko&show_icons=true"/>
 
-### Tools
--Docker & Kubernetes
--Ansible
--Git
--Aws
--linux
--IaC- CloudFormation
