@@ -1,5 +1,39 @@
 ### Hello! I'm Titus,
-A cloud solutions architect leveraging AWS cloud technologies. Learning DevOps
+<details>
+    <summary><b>✨About</b></summary><br/>
+    A cloud solutions architect leveraging AWS cloud technologies. Learning DevOps
+</details>
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+  <table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lesinko&show_icons=true"/>
 
