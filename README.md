@@ -1,7 +1,9 @@
 ### Hello! I'm Titus,
 <details>
     <summary><b>✨About</b></summary><br/>
-    A cloud solutions architect leveraging AWS cloud technologies. Learning DevOps
+    A cloud solutions architect leveraging AWS cloud technologies.
+    Trying to make customers happy through cloud solutions. 
+    Learning DevOps♻️
 </details>
 <details>
     <summary><b>🛠️ Languages & Tools</b></summary><br/>
@@ -20,10 +22,6 @@
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)">
-            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -33,8 +31,12 @@
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
             </td>
+            <td width="80px" align="center">
+            <span><strong>AWS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg">
+            </td>
+            
         </tr>
     </tbody>
 </table>
