@@ -1,9 +1,9 @@
 ### Hey, I'm Titus!
-    A cloud solutions architect leveraging AWS cloud technologies.<br/> 
+    A cloud solutions architect leveraging AWS cloud technologies.
     Learning DevOps
 ### Skills 
 - **Languages**: &nbsp;                          Python
-- **AWS**: &nbsp;&nbsp;&nbsp;                          EC2,IAM,RDS,S3,ECS,VPC,WAF
+- **AWS**: &nbsp;&nbsp;&nbsp;                            EC2,IAM,RDS,S3,ECS,VPC,WAF
 - **DevOps**:  &nbsp;&nbsp;                      Linux, Git, Docker, Kubernetes, IaC-CloudFormation, Nginx, Apache,AWS
 
 ### Technologies
