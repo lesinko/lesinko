@@ -3,7 +3,7 @@
     Learning DevOps
 ### Skills 
 - **Languages**: &nbsp;                          Python
-- **AWS**: &nbsp;&nbsp;                          EC2,IAM,RDS,S3,ECS,VPC,WAF
+- **AWS**: &nbsp;&nbsp;&nbsp;                          EC2,IAM,RDS,S3,ECS,VPC,WAF
 - **DevOps**:  &nbsp;&nbsp;                      Linux, Git, Docker, Kubernetes, IaC-CloudFormation, Nginx, Apache,AWS
 
 ### Technologies
@@ -17,8 +17,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/titus-lesinko)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](lesinko2@gmail.com)
 
-#### Weekly Development Breakdown
 
-![light](https://raw.githubusercontent.com/lesinko/lesinko/main/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-</td>
-<td valign="top" width="50%">
