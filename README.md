@@ -1,6 +1,7 @@
 ### Greetings, I'm Titus!
-    I'm a cloud engineer leveraging AWS cloud technologies to deliver applications at scale and with HA.
-    I'm Currently learning DevOps.
+    All things done great with the right DATA.
+    Finding optimal cloud-based solutions at scale.
+   
 ### Skills 
 - **Languages**:Python, YAML
 - **AWS**:      EC2,IAM,RDS,S3,ECS,VPC,WAF,SAML,cloudWatch,SNS,AWS Lambda
