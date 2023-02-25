@@ -1,6 +1,12 @@
 ### Greetings, I'm Titus!
     All things done great with the right DATA.
     Finding optimal cloud-based solutions at scale.
+ <div align="center">
+<img src="https://github.com/lesinko/lesinko/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+# Yet Another GitHub Profile !
+
    
 ### Skills 
 - **Languages**:Python, YAML
