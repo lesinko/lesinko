@@ -1,13 +1,7 @@
 ### Greetings, I'm Titus!
-    All things done great with the right DATA.
-    Finding optimal cloud-based solutions at scale.
- <div align="center">
-<img src="https://github.com/lesinko/lesinko/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-
-# Yet Another GitHub Profile !
-
-   
+    I am a cloud solution's architect and a Junior DevOps Engineer in-learning.
+    I design, mantain and deploy cloud-based solutions with aws.
+    
 ### Skills 
 - **Languages**:Python, YAML
 - **AWS**:      EC2,IAM,RDS,S3,ECS,VPC,WAF,SAML,cloudWatch,SNS,AWS Lambda
