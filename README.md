@@ -1,6 +1,6 @@
 ### Greetings, I'm Titus!
     I am a cloud solution's architect and a Junior DevOps Engineer in-learning.
-    I design, mantain and deploy cloud-based solutions with aws.
+    I design, mantain and deploy cloud-based solutions at scale.
     
 ### Skills 
 - **Languages**:Python, YAML
