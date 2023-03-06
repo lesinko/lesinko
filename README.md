@@ -1,11 +1,12 @@
 ### Greetings 🖐️, I'm Titus!
     I am a cloud solution's architect and a Junior DevOps Engineer in-learning.
-    I design, mantain and deploy cloud-based solutions at scale.
+    I design, develop and deploy cloud-based solutions to impact business processes.
     
-### Skills 
+### Proficiency in: 
 - **Linux**
 - **AWS Cloud**
 - **Docker & Kubernetes**
+- **CI-CD with GitHub Actions**
 - **Infrastructure as Code - AWS CloudFormation**
 - **Prometheus & Grafana**
 - **Webservers**
