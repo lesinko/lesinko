@@ -24,3 +24,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/titus-lesinko)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/_lesinko)
 
+
+
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/lesinko/lesinko/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/lesinko/lesinko/master/assets/linkedin.svg" />][linkedin]
+
+<br />
+
