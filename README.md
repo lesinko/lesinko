@@ -1,5 +1,5 @@
 ### Greetings 🖐️, I'm Titus!
-    I am a cloud solution's architect and a Junior DevOps Engineer in-learning.
+    I am a cloud solution's architect and a Junior DevOps Engineer.
     I design, develop and deploy cloud-based solutions to impact business processes.
     
 ### Proficiency in: 
