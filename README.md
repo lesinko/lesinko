@@ -1,13 +1,11 @@
 ### Greetings 🖐️, I'm Titus!
-    I am a cloud solution's architect and a Junior DevOps Engineer.
-    I design, build and maintain highly scalable and resilient cloud-based infrastructure to impact business processes.
-    I'm passionate about optimizing software development workflows to maximize efficiency and productivity
+    ---Optimizing cloud-based solutions and software development workflows to maximize efficiency and productivity to impact business processes---
     
 ### Proficiency in: 
 - Cloud platform: AWS
 - Containerization: Docker & Kubernetes
-- CI/CD: GitHub Actions
-- IaC: CloudFormation
+- CI/CD: GitHub Actions,aws codepipeline
+- IaC: Terraform,Ansible,CloudFormation
 - Monitoring & Logging: Prometheus,Grafana,AWS CloudTrail,AWS CloudWatch
 - Webservers: Nginx, Apache
 - Programming languages: python(In-learning),YAML
