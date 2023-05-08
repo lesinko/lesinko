@@ -1,6 +1,5 @@
 ### Greetings 🖐️, I'm Titus!
-    ---Optimizing cloud-based solutions and software development workflows
-    to maximize efficiency and productivity to impact business processes---
+ ---Optimizing cloud-based solutions and software development workflows to impact business processes---
     
 ### Proficiency in: 
 - Cloud platform: AWS
