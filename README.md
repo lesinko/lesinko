@@ -1,14 +1,13 @@
 ### Greetings 🖐️, I'm Titus!
- ---Optimizing cloud-based solutions and software development workflows to impact business processes---
+ I am a cloud and DevOps Engineer with experience implementing cloud-based solutions that optimize scalability, performance and security to impact business processes.
     
 ### Proficiency in: 
-- Cloud platform: AWS
+- Cloud platform: Amazon Web Services
 - Containerization: Docker & Kubernetes
 - CI/CD: GitHub Actions,aws codepipeline
-- IaC: Terraform,Ansible,CloudFormation
+- IaC: Terraform
 - Monitoring & Logging: Prometheus,Grafana,AWS CloudTrail,AWS CloudWatch
-- Webservers: Nginx, Apache
-- Programming languages: python(In-learning),YAML
+- Scripting languages: python(In-learning),bash
 
 ## Tech stack:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
