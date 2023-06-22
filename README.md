@@ -1,5 +1,5 @@
 ### Greetings 🖐️, I'm Titus!
- I am a cloud and DevOps Engineer with experience implementing cloud-based solutions that optimize scalability, performance and security to impact business processes.
+ Experienced cloud and DevOps Engineer proficient at implementing cloud-based solutions that optimize scalability, performance and security to impact business processes.
     
 ### Proficiency in: 
 - Cloud platform: Amazon Web Services
