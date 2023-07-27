@@ -6,6 +6,7 @@
 - Linux
 - Containerization(docker & Kubernetes)
 - Networking & Security
+- Server management
 - Terraform
 - Prometheus and Grafana(Monitoring & Visualization)
 - ElasticSearch, Logstash & Kibana
