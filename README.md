@@ -1,5 +1,6 @@
 ### Greetings 🖐️, I'm Titus!
- Experienced Cloud Engineer focused on designing and implementing cloud-based solutions to drive business success. With a passion for technology and innovation, I thrive on finding optimal solutions to complex problems in the cloud ecosystem. My ultimate goal is to leverage cloud technologies to empower organizations, optimize processes, and enhance the overall business impact.
+ Experienced Cloud and DevOps Engineer.
+ I thrive on finding optimal solutions to complex problems in the cloud ecosystem.
  
 ### Tech stack: 
 - __Cloud Platforms__: _Amazon Web Services (AWS)_
@@ -20,5 +21,4 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="30" width="30">](https://twitter.com/_lesinko)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30">](https://www.linkedin.com/in/titus-lesinko/)
 
-<font size="3">Let's Bubble new ideas in the cloud! 😊
-</font>
+<font size="3">Let's Bubble new ideas in the cloud! 😊</font>
