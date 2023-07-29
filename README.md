@@ -18,6 +18,7 @@
   
 ### Let's Connect! 🌐
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="30" width="30">](https://twitter.com/_lesinko)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30">](https://www.linkedin.com/in/https://www.linkedin.com/in/titus-lesinko/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30">](https://www.linkedin.com/in/titus-lesinko/)
 
-<font color="blue"> Let's Bubble new ideas in the cloud! 😊 </font>
+<font size="3">Let's Bubble new ideas in the cloud! 😊
+</font>
