@@ -20,4 +20,7 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="30" width="30">](https://twitter.com/_lesinko)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30">](https://www.linkedin.com/in/https://www.linkedin.com/in/titus-lesinko/)
 
-*Let's Bubble new ideas in the cloud! 😊*
+<a href="https://twitter.com/_lesinko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_lesinko" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/titus-lesinko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+
+<font color="blue">Let's Bubble new ideas in the cloud! 😊</font>
