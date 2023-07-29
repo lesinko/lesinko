@@ -1,5 +1,5 @@
-### Greetings 🖐️, I'm Titus!
- Experienced Cloud and DevOps Engineer.  
+### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings, I'm Titus!
+ Cloud and DevOps Engineer.  
  I thrive on finding optimal solutions to complex problems in the cloud ecosystem.
  
 ### Tech stack: 
@@ -21,4 +21,4 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="30" width="30">](https://twitter.com/_lesinko)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30">](https://www.linkedin.com/in/titus-lesinko/)
 
-<font size="3">Let's Bubble new ideas in the cloud! 😊</font>
+Let's Bubble new ideas in the cloud! 😊
