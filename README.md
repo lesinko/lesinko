@@ -1,5 +1,5 @@
 ### Greetings 🖐️, I'm Titus!
- Experienced Cloud and DevOps Engineer.
+ Experienced Cloud and DevOps Engineer.  
  I thrive on finding optimal solutions to complex problems in the cloud ecosystem.
  
 ### Tech stack: 
