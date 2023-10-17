@@ -1,10 +1,10 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings, I'm Titus!
- Cloud and DevOps Engineer.  
+ Cloud Engineer with experience optimizing cloud-based solutions.  
  I thrive on finding optimal solutions to complex problems in the cloud ecosystem.
  
 ### Tech stack: 
-- __Cloud Platforms__: _Amazon Web Services (AWS)_
-- __Containerization__: _Docker, Kubernetes_
+- __Cloud Platform__: _Amazon Web Services (AWS)_
+- __Containerization and Orchestration__: _Docker, Kubernetes_
 - __Infrastructure-as-Code__: _Terraform_
 - __Networking__: _VPC, VPN, Load Balancers, CDN_
 - __Security__: _IAM, Security Groups, SSL Certificates, Encryption at rest and in transit_
