@@ -1,5 +1,5 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings, I'm Titus!
- Cloud Engineer with experience optimizing cloud-based solutions.  
+ Cloud DevOps Engineer  
  I thrive on finding optimal solutions to complex problems in the cloud ecosystem.
  
 ### Tech stack: 
