@@ -1,6 +1,6 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings, I'm Titus!
- Cloud DevOps Engineer  
- I thrive on finding optimal solutions to complex problems in the cloud ecosystem.
+ I'm a cloud engineer experienced in building and managing cloud infrastructure aligned with business requirements.
+ Proficient in using AWS services and DevOps tools to automate business processes.
  
 ### Tech stack: 
 - __Cloud Platform__: _Amazon Web Services (AWS)_
