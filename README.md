@@ -1,4 +1,4 @@
-### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings, I'm Titus!
+### Greetings, I'm Titus!
  I'm a cloud engineer experienced in building and managing cloud infrastructure aligned with business requirements.
  Proficient in using AWS services and DevOps tools to automate business processes.
  
