@@ -1,6 +1,5 @@
 ### Greetings, I'm Titus!
- I'm a cloud engineer experienced in building and managing cloud infrastructure aligned with business requirements.
- Proficient in using AWS services and DevOps tools to automate business processes.
+ cloud devops engineer
  
 ### Tech stack: 
 - __Cloud Platform__: _Amazon Web Services (AWS)_
