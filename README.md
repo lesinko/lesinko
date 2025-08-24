@@ -1,16 +1,16 @@
-### Greetings, I'm Titus!
- cloud devops engineer
+### Hello, I'm Titus!
+ Cloud and DevOps Engineer
  
 ### Tech stack: 
-- __Cloud Platform__: _Amazon Web Services (AWS)_
-- __Containerization and Orchestration__: _Docker, Kubernetes_
-- __Infrastructure-as-Code__: _Terraform_
+- __Cloud Platform__: _AWS, GCP_
+- __Containerization and Orchestration__: _Docker, ECS, Kubernetes_
+- __Infrastructure-as-Code__: _Terraform, Ansible_
 - __Networking__: _VPC, VPN, Load Balancers, CDN_
-- __Security__: _IAM, Security Groups, SSL Certificates, Encryption at rest and in transit_
-- __Monitoring and Logging__: _CloudWatch, Prometheus, Grafana, ELK Stack_
-- __Scripting and Automation__: _Python(in-learning), Bash_
-- __Continuous Integration/Continuous Deployment (CI/CD)__: _GitHub Actions_
-- __Database Management__: _Amazon RDS-MySQL, PostgreSQL,Aurora_
+- __Security__: _IAM, Sonarqube, Trivy, Security Groups_
+- __Monitoring and Logging__: _Loki, Promtail, Node-Exporter, CloudWatch, Prometheus, Grafana, ELK Stack_
+- __Scripting and Automation__: _Python, YAML, Bash_
+- __Continuous Integration/Continuous Deployment (CI/CD)__: _GitHub Actions, Bitbucket Pipelines, Jenkins_
+- __Database Management__: _MySQL, NoSQL_
 
 ### Certifications
 - _AWS Certified Cloud Practitioner_
