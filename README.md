@@ -2,7 +2,6 @@
 
 🚀 **Cloud & DevOps Engineer**  
 I build, automate, and maintain secure, scalable cloud infrastructure with a focus on reliability, performance, and CI/CD best practices.
----
 
 ## 🛠️ Tech Stack
 
@@ -13,13 +12,13 @@ I build, automate, and maintain secure, scalable cloud infrastructure with a foc
 - Docker, Amazon ECS, Kubernetes
 
 ### 🏗️ Infrastructure as Code
-- Terraform, Ansible
+- Terraform, Ansible, AWS Cloudformation
 
 ### 🌐 Networking
-- VPC, VPN, Load Balancers, CDN
+- VPN, Load Balancers, CDN, TCP/IP
 
 ### 🔐 Security
-- IAM, SonarQube, Trivy, Security Groups
+- SAST (Sonarqube, Semgrep, ESlint, Trivy, Snyk) DAST (OWASP-ZAP)
 
 ### 📊 Monitoring & Logging
 - Loki, Promtail, Node Exporter  
@@ -27,13 +26,10 @@ I build, automate, and maintain secure, scalable cloud infrastructure with a foc
 - ELK Stack
 
 ### 🤖 Scripting & Automation
-- Python, Bash, YAML
+- Python, Bash
 
 ### 🔁 CI/CD
-- GitHub Actions, Bitbucket Pipelines, Jenkins
-
-### 🗄️ Databases
-- MySQL, NoSQL
+- GitHub Actions, Bitbucket Pipelines, Jenkins, Code pipeline
 
 ---
 
