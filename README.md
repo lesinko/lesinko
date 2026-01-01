@@ -1,23 +1,52 @@
-### Hello, I'm Titus!
- Cloud and DevOps Engineer
- 
-### Tech stack: 
-- __Cloud Platform__: _AWS, GCP_
-- __Containerization and Orchestration__: _Docker, ECS, Kubernetes_
-- __Infrastructure-as-Code__: _Terraform, Ansible_
-- __Networking__: _VPC, VPN, Load Balancers, CDN_
-- __Security__: _IAM, Sonarqube, Trivy, Security Groups_
-- __Monitoring and Logging__: _Loki, Promtail, Node-Exporter, CloudWatch, Prometheus, Grafana, ELK Stack_
-- __Scripting and Automation__: _Python, YAML, Bash_
-- __Continuous Integration/Continuous Deployment (CI/CD)__: _GitHub Actions, Bitbucket Pipelines, Jenkins_
-- __Database Management__: _MySQL, NoSQL_
+## 👋 Hello, I'm Titus!
 
-### Certifications
-- _AWS Certified Cloud Practitioner_
-- _AWS Certified Cloud Solutions Architect-Associate_
-  
-### Let's Connect! 🌐
+🚀 **Cloud & DevOps Engineer**  
+I build, automate, and maintain secure, scalable cloud infrastructure with a focus on reliability, performance, and CI/CD best practices.
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+- AWS, GCP
+
+### 📦 Containerization & Orchestration
+- Docker, Amazon ECS, Kubernetes
+
+### 🏗️ Infrastructure as Code
+- Terraform, Ansible
+
+### 🌐 Networking
+- VPC, VPN, Load Balancers, CDN
+
+### 🔐 Security
+- IAM, SonarQube, Trivy, Security Groups
+
+### 📊 Monitoring & Logging
+- Loki, Promtail, Node Exporter  
+- CloudWatch, Prometheus, Grafana  
+- ELK Stack
+
+### 🤖 Scripting & Automation
+- Python, Bash, YAML
+
+### 🔁 CI/CD
+- GitHub Actions, Bitbucket Pipelines, Jenkins
+
+### 🗄️ Databases
+- MySQL, NoSQL
+
+---
+
+## 📜 Certifications
+- AWS Certified Cloud Practitioner  
+- AWS Certified Solutions Architect – Associate  
+
+---
+
+## 🌐 Let’s Connect
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="30" width="30">](https://twitter.com/_lesinko)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" width="30">](https://www.linkedin.com/in/titus-lesinko/)
 
-Let's Bubble new ideas in the cloud! 😊
+---
+
+✨ *Let’s bubble new ideas in the cloud!*
